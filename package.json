@@ -1,0 +1,13 @@
+{
+  "name": "node-js-complete-guide",
+  "version": "1.0.0",
+  "description": "Complete Node.js Guide",
+  "main": "aap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node aap3.js",
+    "start-server": "node aap3.js"
+  },
+  "author": "Harish Kumar Behera",
+  "license": "ISC"
+}
