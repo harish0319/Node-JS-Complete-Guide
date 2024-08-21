@@ -9,5 +9,8 @@
     "start-server": "node aap3.js"
   },
   "author": "Harish Kumar Behera",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
 }
